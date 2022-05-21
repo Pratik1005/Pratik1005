@@ -5,7 +5,7 @@
 
 - Currently I'm learning & improving my React JS knowledge by building real world projects
 
-- I started writing blogs of my learnings on [https://pratikdevle.hashnode.dev/](https://pratikdevle.hashnode.dev/)
+- I started writing blogs of my learnings <a href="https://pratikdevle.hashnode.dev/" target="_blank">here</a>
 
 - Apart from web devlopment I like to explore on personal finance
 
